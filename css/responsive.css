@@ -151,7 +151,7 @@
    ============================================ */
 @media (max-width: 768px) {
 
-  .hero-slider         { height: 400px; }
+  .hero-slider         { height: 500px; }
   .hero-title          { font-size: var(--font-size-3xl); }
   .hero-subtitle       { font-size: var(--font-size-base); }
   .hero-buttons        { flex-direction: column; }
