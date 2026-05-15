@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Black Quality Round Neck",
+      "slug": "black-quality-round-neck",
+      "price": 33000,
+      "salePrice": 28000,
+      "onSale": true,
+      "category": "tops",
+      "subcategory": "Round Necks",
+      "tags": ["round neck", "black", "spider design", "fashion"],
+      "description": "Fashionable Black Round Neck with spider design.",
+      "shortDescription": "Black Round Neck with spider design",
+      "features": [
+        "Comfortable cotton material",
+        "Unique spider design",
+        "Perfect for casual wear"
+      ],
+      "images": [
+        "images/products/top.jpg"
+      ],
+      "stock": 20,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        { "color": "Black", "stock": 20 }
+      ],
+      "sizes": [],
+      "featured": true,
+      "dateAdded": "2026-05-10",
+      "sku": "TOP-RN-001"
+    },
+    {
+      "id": "prod-002",
+      "name": "Complete Corporate Set",
+      "slug": "complete-corporate-set",
+      "price": 120000,
+      "salePrice": 110000,
+      "onSale": true,
+      "category": "full-fits",
+      "subcategory": "Full Fits",
+      "tags": ["corporate", "full fit", "complete set", "formal"],
+      "description": "Complete set of corporate clothing ready to wear.",
+      "shortDescription": "Complete corporate outfit ready to wear",
+      "features": [
+        "Full set included",
+        "Corporate style",
+        "Ready to wear"
+      ],
+      "images": [
+        "images/products/full-corporate-fit.jpg"
+      ],
+      "stock": 20,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        { "color": "Black", "stock": 20 }
+      ],
+      "sizes": [],
+      "featured": true,
+      "dateAdded": "2026-05-10",
+      "sku": "FF-CORP-002"
+    },
+    {
+      "id": "prod-003",
+      "name": "Quality Denim Cap",
+      "slug": "quality-denim-cap",
+      "price": 15000,
+      "salePrice": 13000,
+      "onSale": true,
+      "category": "accessories",
+      "subcategory": "Caps",
+      "tags": ["cap", "denim", "fashion", "accessories"],
+      "description": "Quality fashionable Denim Cap.",
+      "shortDescription": "Fashionable Denim Cap",
+      "features": [
+        "Quality denim material",
+        "Adjustable fit",
+        "Stylish design"
+      ],
+      "images": [
+        "images/products/cap.jpg"
+      ],
+      "stock": 26,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        { "color": "Black", "stock": 13 },
+        { "color": "Grey", "stock": 13 }
+      ],
+      "sizes": [],
+      "featured": true,
+      "dateAdded": "2026-05-10",
+      "sku": "ACC-CAP-003"
+    },
+    {
+      "id": "prod-004",
+      "name": "Quality Men's Sneakers",
+      "slug": "quality-mens-sneakers",
+      "price": 25000,
+      "salePrice": 23000,
+      "onSale": true,
+      "category": "footwear",
+      "subcategory": "Sneakers",
+      "tags": ["sneakers", "shoes", "men", "casual"],
+      "description": "Quality Sneakers for men.",
+      "shortDescription": "Quality men's sneakers",
+      "features": [
+        "Comfortable fit",
+        "Durable sole",
+        "Stylish design"
+      ],
+      "images": [
+        "images/products/sneakers.jpg"
+      ],
+      "stock": 20,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        { "color": "Brown", "stock": 20 }
+      ],
+      "sizes": ["41", "42", "43", "44", "45"],
+      "featured": true,
+      "dateAdded": "2026-05-10",
+      "sku": "FW-SNK-004"
+    },
+    {
+      "id": "prod-005",
+      "name": "Quality Jean Shorts",
+      "slug": "quality-jean-shorts",
+      "price": 35000,
+      "salePrice": 33000,
+      "onSale": true,
+      "category": "bottoms",
+      "subcategory": "Jean Shorts",
+      "tags": ["jeans", "shorts", "denim", "casual"],
+      "description": "Denim Jean Shorts for men.",
+      "shortDescription": "Denim jean shorts for men",
+      "features": [
+        "Quality denim material",
+        "Comfortable fit",
+        "Stylish camo design"
+      ],
+      "images": [
+        "images/products/jean-shorts.jpg"
+      ],
+      "stock": 30,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        { "color": "Camo", "stock": 30 }
+      ],
+      "sizes": [],
+      "featured": true,
+      "dateAdded": "2026-05-10",
+      "sku": "BTM-JS-005"
+    }
+  ],
+  "categories": [
+  {
+    "id": "tops",
+    "name": "Tops",
+    "image": "images/products/Polo-top.jpg",
+    "description": "Round Necks, Vintage Shirts, Polo Shirts, Jackets"
+  },
+  {
+    "id": "bottoms",
+    "name": "Bottoms",
+    "image": "images/products/Trousers.jpg",
+    "description": "Joggers, Baggy Jeans, Jean Shorts, Corporate Trousers"
+  },
+  {
+    "id": "footwear",
+    "name": "Footwear",
+    "image": "images/products/loafers.jpg",
+    "description": "Loafers, Sneakers"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "image": "images/products/cap.jpg",
+    "description": "Caps"
+  },
+  {
+    "id": "full-fits",
+    "name": "Full Fits",
+    "image": "images/products/full-fit.jpg",
+    "description": "Complete outfits ready to wear"
+  }
+]
+}
